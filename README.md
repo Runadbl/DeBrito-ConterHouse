@@ -1,10 +1,10 @@
 ## Presentación
 
-El e-commerce se dedicara a la comercializacion de inmuebles de alta calidad realizadas con contenedores maritimos, brindando una opcion mas accecible que las convencionales pero asegurando calidad, comodidas y rapidez. Se comercializaran modulos que pueden ser, casas,oficinas,consultorios, bares, etc...
+El e-commerce se dedicara a la comercializacion de mesas de alta calidad realizadas con diferentes materiales y resina epoxica, brindando una opcion mas diferente y de diseño unico sobre el resto de las mesas convencionales.
 
 ## Publico Objetivo
 
-El publico apuntado es a partir de los 21 años en adelante
+El publico apuntado es a partir de los 15 años en adelante
 
 ## Tipografia
 
@@ -17,3 +17,5 @@ Como tipografia utilizaremos la Nunito
 ## Logo de la marca
 
 [![Captura-de-pantalla-102.png](https://i.postimg.cc/VL16XPzp/Captura-de-pantalla-102.png)](https://postimg.cc/F1WNQqdV)
+
+## Link Figma
