@@ -19,3 +19,5 @@ Como tipografia utilizaremos la Nunito
 [![Captura-de-pantalla-102.png](https://i.postimg.cc/VL16XPzp/Captura-de-pantalla-102.png)](https://postimg.cc/F1WNQqdV)
 
 ## Link Figma
+
+https://www.figma.com/file/Bitumnx5rimxUjDUr7s0fW/Untitled?node-id=5%3A3&t=J4iLLNgSIn9OwTJr-0
