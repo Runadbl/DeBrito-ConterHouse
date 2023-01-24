@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=PT+Sans:wght@400;700&display=swap');
+
+
+*{
+    margin: 3px;
+    padding: 1px;
+    box-sizing: border-box;
+}
+
+:root{
+    --primario: #ffffff;
+    --secundario: #735A3C;
+    --terciario: #3F5559;
+}
